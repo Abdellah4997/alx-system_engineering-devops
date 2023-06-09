@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | { read; read; cd ..; ls -la; } | { read; ls -la /boot; }
+ls -l /boot
