@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp -name "betty" -exec cp -a {} /tmp/my_first_directory/ \; -delete
+find /tmp -name "betty" -exec cp -a {} /tmp/my_first_directory/ +
