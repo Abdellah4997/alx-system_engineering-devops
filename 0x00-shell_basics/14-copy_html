@@ -1,2 +1,2 @@
 #!/bin/bash
-for file in *.html; do cp -u "$file" "../"
+while do file in *.html  cp -u "$file" "../"
