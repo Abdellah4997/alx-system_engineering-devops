@@ -1,3 +1,2 @@
 #!/bin/bash
 grep "^$(id -un):" /etc/group | cut -d: -f1,4 --output-delimiter=','
-
